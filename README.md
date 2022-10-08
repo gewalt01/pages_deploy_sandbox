@@ -1,0 +1,2 @@
+# pages_deploy_sandbox
+GitHub Actionsで別リポジトリへデプロイするsandbox
